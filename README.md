@@ -2,7 +2,7 @@
 
 # Sudoku Generator
 
-This module provides a Sudoku Generator that can create a valid 9x9 Sudoku puzzle with a specified number of cells removed to make it playable. The generated Sudoku puzzle has a unique solution and adheres to the standard rules of Sudoku.
+SUDOKU!!
 
 ## How to Use
 
